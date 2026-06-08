@@ -74,8 +74,8 @@ for wi, week in enumerate(weeks):
         )
 
 total = sum(c for _, c in sum(weeks, []))
-width  = ML + len(weeks) * (CELL + GAP) + 10
-height = MT + 7 * (CELL + GAP) + 24
+width  = ML + len(weeks) * (CELL + GAP) + 30
+height = MT + 7 * (CELL + GAP) + 32
 
 legend_x = width - 5 * (CELL + GAP) - 60
 legend_colors = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
