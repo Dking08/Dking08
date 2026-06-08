@@ -1,4 +1,4 @@
-## GitLab Activity  
+## GitLab Activity - [dking08](https://gitlab.com/dking08)
 [![GitLab Contributions](assets/gitlab-contributions.svg)](https://gitlab.com/dking08)
 
 <!--
