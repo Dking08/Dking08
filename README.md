@@ -1,5 +1,5 @@
 ## GitLab Activity  
-![GitLab Contributions](assets/gitlab-contributions.svg)
+[![GitLab Contributions](assets/gitlab-contributions.svg)](https://gitlab.com/dking08)
 
 <!--
 **Dking08/Dking08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
