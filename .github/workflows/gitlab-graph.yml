@@ -1,8 +1,8 @@
 name: GitLab Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 2 * * *"   # daily at 2am UTC
+  # schedule:
+  #   - cron: "0 2 * * *"   # daily at 2am UTC
   workflow_dispatch:        # lets you trigger manually
 
 jobs:
